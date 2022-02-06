@@ -1,6 +1,6 @@
 const core = require('@actions/core');
-const standardVersion = require('standard-version');
-const { getConfiguration } = require('standard-version/lib/configuration');
+const standardVersion = require('@dwmkerr/standard-version');
+const { getConfiguration } = require('@dwmkerr/standard-version/lib/configuration');
 
 
 async function run() {
