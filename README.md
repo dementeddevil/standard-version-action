@@ -1,4 +1,4 @@
-# Standard Version Action
+# Extended Standard Version Action
 
 This [Github Action][] calculates the new version based on [Conventional Commits][], updates CHANGELOG, and creates the new git tag. It's powered by [Standard Version][].
 
